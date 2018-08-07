@@ -42,7 +42,7 @@ public class PageAdapter extends FragmentPagerAdapter {
           switch(position) {
               case 0: return "ABOUT";
               case 1: return "CONTACT";
-              case 2: return "SKILL";
+              case 2: return "SKILLS";
               case 3: return "WORK";
           }
 

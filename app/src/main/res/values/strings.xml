@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">Portfolio</string>
 
-    <!-- TODO: Remove or change this placeholder text -->
+
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about">Hi,my name is Shubham. I am a software developer. I have worked on android SDKs that involved AI, apart from this i have also worked on Tensorflow JS. I love to explore and learn new technologies</string>
+    <string name="skill">--Android "\n"--iOS "\n"--Java "\n"--C++ "\n"--SQL</string>
+    <string name="work">--coke-SipNScan "\n"--coke-Pincode "\n"--Tensorflow JS "\n"--Tensorflow-Lite</string>
+    <string name="contact">shubhamvns115@gmail.com</string>
 </resources>
